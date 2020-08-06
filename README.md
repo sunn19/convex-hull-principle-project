@@ -1,6 +1,5 @@
 # Convex-hull-principle-of-molecular-biology-as-one-of-the-Fundamental-Laws-of-Biology-and-the-geometry-of-genome-space-of-viruses
 
-## Materials and Methods
 
 * The data, all.gbk.tar.gz, are downloaded from NCBI in March, 2020 : ftp://ftp.ncbi.nlm.nih.gov/genomes/Viruses/.
 
