@@ -2,8 +2,7 @@
 
 ## Materials and Methods
 
-* We downloaded data, all.gbk.tar.gz, from NCBI in in March, 2020 (ftp://ftp.ncbi.nlm.nih.gov/genomes/Viruses/). We extracted the following information of each virus according to our lab database VirusDB: Number of segments, Accession, GI, GenPart1, GenPart2, Baltimore label, Shape, Order, Family, Subfamily, Subfamily, Genus, Virus, Length, 12-dimensional natural vector. The detailed information of VirusDB can be found in table S1. The original paper:
-Dong, R., Zheng, H., Tian, K., &Yau, SST. (2017). Virus Database and Online Inquiry System Based on Natural Vectors. Evolutionary Bioinformatics.
+* The data, all.gbk.tar.gz, are downloaded from NCBI in March, 2020 : ftp://ftp.ncbi.nlm.nih.gov/genomes/Viruses/.
 
 * naturalvectordna.m: compute 12-dim Natural Vector.
 
